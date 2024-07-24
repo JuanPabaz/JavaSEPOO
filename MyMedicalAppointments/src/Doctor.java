@@ -4,4 +4,7 @@ public class Doctor {
     String speciality;
 
     //Comportamientos
+    public void showName(){
+        System.out.println(name);
+    }
 }
